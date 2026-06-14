@@ -1,0 +1,12 @@
+A:\c#\ProjectEnd\ConsoleApp1\Pl\bin\Debug\net8.0\PL.deps.json
+A:\c#\ProjectEnd\ConsoleApp1\Pl\bin\Debug\net8.0\PL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Pl\bin\Debug\net8.0\PL.pdb
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\PL.AssemblyInfoInputs.cache
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\PL.AssemblyInfo.cs
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\PL.csproj.CoreCompileInputs.cache
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\PL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\refint\PL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\PL.pdb
+A:\c#\ProjectEnd\ConsoleApp1\Pl\obj\Debug\net8.0\ref\PL.dll
+A:\c#\ProjectEnd\ConsoleApp1\PL\obj\Debug\net8.0\PL.sourcelink.json

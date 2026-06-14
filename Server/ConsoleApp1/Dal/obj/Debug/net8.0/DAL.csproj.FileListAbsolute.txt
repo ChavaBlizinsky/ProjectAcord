@@ -1,0 +1,24 @@
+A:\c#\ProjectEnd\ConsoleApp1\Dal\bin\Debug\net8.0\DAL.deps.json
+A:\c#\ProjectEnd\ConsoleApp1\Dal\bin\Debug\net8.0\DAL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Dal\bin\Debug\net8.0\DAL.pdb
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\refint\DAL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.pdb
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\ref\DAL.dll
+A:\c#\ProjectEnd\ConsoleApp1\Dal\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\bin\Debug\net8.0\DAL.deps.json
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\bin\Debug\net8.0\DAL.dll
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\bin\Debug\net8.0\DAL.pdb
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.dll
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\refint\DAL.dll
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\DAL.pdb
+A:\c#\פרויקט סיום העתק לפני הרצת טבלאות חדשות\Dal\obj\Debug\net8.0\ref\DAL.dll
